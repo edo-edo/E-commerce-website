@@ -1,0 +1,4 @@
+node_nodules
+.eslintrc
+craco.config.js
+tailwind.config.js
