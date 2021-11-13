@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Basic Tee",
+      "href": "#",
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "imageAlt": "Front of men is  Basic Tee in black.",
+      "price": "$35",
+      "color": "Black"
+    },
+    {
+      "id": 2,
+      "name": "Basic Lucy",
+      "href": "#",
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-02.jpg",
+      "imageAlt": "Front of men is Basic Tee",
+      "price": "$15",
+      "color": "Black"
+    },
+    {
+      "id": 3,
+      "name": "Basic Sanji",
+      "href": "#",
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-03.jpg",
+      "imageAlt": " Basic Tee in black.",
+      "price": "$65",
+      "color": "Black"
+    },
+    {
+      "id": 4,
+      "name": "Basic Zoro",
+      "href": "#",
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-04.jpg",
+      "imageAlt": "Basic Tee in black.",
+      "price": "$45",
+      "color": "Black"
+    },
+    {
+      "id": 5,
+      "name": "Earthen Bottle",
+      "href": "#",
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper.",
+      "price": "$48",
+      "color": "Black"
+    }
+  ]
+}
