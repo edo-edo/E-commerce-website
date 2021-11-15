@@ -1,6 +1,7 @@
 import { FC } from 'react';
 
 import Product from './Product';
+import Pagination from '../Common/Pagination';
 import { products } from '../data/productList.json';
 
 const Products: FC = () => (
@@ -21,6 +22,7 @@ const Products: FC = () => (
           />
         ))}
       </div>
+      <Pagination />
     </div>
   </div>
 );
