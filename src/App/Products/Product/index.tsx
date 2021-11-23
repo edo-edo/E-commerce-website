@@ -1,6 +1,7 @@
 import { FC } from 'react';
 
-interface ProductProps {
+export interface ProductProps {
+  id?: number;
   imageSrc: string;
   imageAlt: string;
   href: string;
